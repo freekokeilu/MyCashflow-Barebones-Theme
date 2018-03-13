@@ -4,7 +4,7 @@
 
 body {
 	color: text-contrast($color-body-bg);
-	font: #{$font-size}/#{$line-height} $font-body;
+	font: #{$16}/#{$line-height} $verdana;
 }
 
 button, input, select, textarea {
